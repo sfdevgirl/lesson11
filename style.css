@@ -1,0 +1,43 @@
+html {
+	  background: url(http://i1280.photobucket.com/albums/a487/sfdevgirl/_s_a14Db14Dc14Dd14De0f0g64h0C282C183748EF6560E69A7CD8BA98DAD0AAiCj30k64l1F4m1F4_zps48dfde30.jpg); 
+  
+}
+
+body {
+	margin: 0;
+}
+
+header{
+	background-color: #0A2127;
+	margin:20px auto;
+}
+
+
+section{
+	background-color:#BC9880;
+	border-radius: 6px;
+	margin:20px auto;
+}
+
+h1{
+	font-family: 'Raleway';
+	color: #BC9880;
+	font-size: 30px;
+	padding: 5px;
+}
+
+h2{
+	color: #D65859;
+	
+	font-size: 25px;
+	font-family: 'Fredoka One', cursive;
+}
+
+p{
+	font-family: 'Nixie One';
+	color: #72434B;
+	font-size: 18px;
+	padding: 5px;
+}
+
+
