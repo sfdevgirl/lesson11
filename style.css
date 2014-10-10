@@ -17,27 +17,32 @@ section{
 	background-color:#BC9880;
 	border-radius: 6px;
 	margin:20px auto;
+	width: 800px;
 }
 
 h1{
 	font-family: 'Raleway';
 	color: #BC9880;
-	font-size: 30px;
-	padding: 5px;
+	font-size: 40px;
+	padding: 72px 0 20px 72px;
 }
 
 h2{
 	color: #D65859;
-	
-	font-size: 25px;
+	margin-left:210px;
+	padding-bottom: 20px;
+	font-size: 35px;
 	font-family: 'Fredoka One', cursive;
 }
 
 p{
 	font-family: 'Nixie One';
 	color: #72434B;
-	font-size: 18px;
-	padding: 5px;
+	font-size: 22px;
+	padding: 10px;
+	text-indent: 20px;
+	margin-top: 70px;
+	line-height: 150%;
 }
 
 
